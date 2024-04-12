@@ -1,4 +1,4 @@
-
+package com.company;
 public class Main
 {
     static int getmin(int arr[], int n){
